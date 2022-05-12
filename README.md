@@ -25,7 +25,7 @@
 
 - :zap: In my free time, I like to paint, and read scientific articles about cosmology and astronomy.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omniah-mahmoud)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedinr-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omniah-mahmoud)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
