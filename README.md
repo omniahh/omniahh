@@ -1,7 +1,7 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="280"/>
+<!--     <img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="280"/> -->
   <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="300"/>
-<!--     <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="250"/> -->
+    <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="250"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/omniah-mahmoud">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
